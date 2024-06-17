@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 5rem;
+    background-color: #ccd5ae;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+h1{
+    color: #354f52;
+}
+
+button{
+    margin: 0 1rem;
+    height: 3rem;
+    width: 7rem;
+    border-radius: 1000px;
+    border: none;
+    padding: 1rem;
+    font-weight: 500;
+    font-size: 14px;
+    background-color: #e9edc9;
+}
+
+/* e9edc9 */
